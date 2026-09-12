@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   },
   description:
     "차종 또는 차종과 연식을 입력하면 공개된 자동차 리콜 정보를 쉽고 빠르게 확인할 수 있는 무료 서비스입니다.",
+  verification: {
+    google: "Zr7PVvthiLjNDLjBqBJbJxhYo-aPZwzymkHLfr968ow",
+  },
 };
 
 export default function RootLayout({
